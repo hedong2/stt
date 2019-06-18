@@ -2,7 +2,7 @@
 
 	<head>
 
-	<title>课程表</title>
+	<title>0103个人课程表</title>
 
 	     <style>
              table {width:90%;background:#ccc; margin: 10px auto;border-collapse:collapse;}
